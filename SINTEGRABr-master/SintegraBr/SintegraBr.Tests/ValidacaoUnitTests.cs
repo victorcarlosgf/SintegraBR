@@ -9,6 +9,7 @@ namespace SintegraBr.Tests
     [TestClass]
     public class ValidacaoUnitTests
     {
+		///Teste de pull request do Git
         /// <summary>
         /// Validar I.E. utilizando DLL do Sintegra
         /// </summary>
